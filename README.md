@@ -25,7 +25,7 @@ Swiggy Food Ordering System is a backend REST API application developed using Ja
 
 - Java 21
 - Spring Boot
-- Spring Data JPA
+- Spring Data JPA.
 - Hibernate
 - Spring Security
 - MySQL
