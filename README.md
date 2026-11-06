@@ -10,7 +10,7 @@ Swiggy Food Ordering System is a backend REST API application developed using Ja
 
 - User Registration
 - Role-Based Authentication (Admin, Customer, Delivery Partner)
-- Restaurant Manaements
+- Restaurant Managements.
 - Food Item Management
 - View Food Menu
 - Place Food Order
